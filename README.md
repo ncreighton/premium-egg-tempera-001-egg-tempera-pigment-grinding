@@ -1,0 +1,2 @@
+# premium-egg-tempera-001-egg-tempera-pigment-grinding
+Built for heritage-icon-painting professionals who are tired of spending hours building a system before you can actually use it.  Fully documented: every section explained so you know exactly what to customize. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Egg Tempera Pigment Grinding &amp; Binder Ratio
